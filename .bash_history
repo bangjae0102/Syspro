@@ -256,3 +256,55 @@ git commit -m "hi"
 git push
 git push --set-upstream origin main
 git push 
+ls
+git config --list
+git init
+git add .
+git status
+git commit -m "first commit"
+git remote add origin git@github.com:bangjae0102/Syspro.git
+git remote -v
+git push origin master
+git push origin main
+git push
+git push origin main
+ls
+clear
+cd Syspro
+cd chap3
+cd prob1
+ls
+mkdir good
+cd ~
+cd Syspro
+git status
+git push
+git pull origin main
+git push origin main
+git pull origin main 
+git push origin main
+git pull origin main
+ls
+git push origin main
+git pull
+git pull origin main
+git push
+git push origin main
+ls
+git commit 
+git stage
+git add .
+git stage
+git status
+clear
+git push origin main
+git pull origin Syspro
+git pull origin main
+git push
+git push --set-upstream origin main
+git push origin mian
+git push origin main
+git pull origin main
+ls
+git status
+git commit
