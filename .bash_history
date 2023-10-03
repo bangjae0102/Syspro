@@ -379,3 +379,41 @@ ls
 git pull origin main
 cd Syspro
 git pull origin main
+gir remote 0v
+git remote -v
+git remote remove origin
+git remote -v
+ls
+git config --list
+cd Syspro
+rm Syspro
+rmdir Syspro
+cd ..
+rmdir Syspro
+rm
+ls
+cd Syspro
+ls
+cd chap3
+cd prob1
+ls
+rm
+rm .
+ls
+git config --list
+cd ~
+l
+ls
+git config --list
+git pull origin main
+git init
+git add .
+git commit -m "first commit"
+git status
+git push origin main
+cd ~
+git clone https://github.com/bangjae0102/Syspro.git
+git remote add origin https://github.com/bangjae0102/Syspro.git
+git push -u origin main
+git pull origin main
+git pull origin main --allow-unrelated-histories
