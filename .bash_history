@@ -193,3 +193,61 @@ git commit
 git push
 git init
 ls
+git init
+ls
+ls Syspro
+cd chap3
+ls
+cd Syspro
+cd chap3
+ls
+celar
+clear
+ls
+cd ..
+git add .
+git stauts
+git status
+git commit -m "first comment"
+git remote add origin https://github.com/bangjae0102/Syspro.git
+push -u origin main
+git remote -v
+git push orgin main
+git push origin main
+cd ..
+git config --global user.name "bangjae0102"
+git config --global user.email "bangjae0102@naver.com"
+git config --list
+cd ~
+git clone https://github.com/bangjae0102/Syspro.git
+ls
+git add.
+git add .
+git commit
+git config credential.helper store
+git push origin
+git push
+clear
+git config credential.helper store
+git push
+git push main
+git push
+git push main
+git push bangjae0102
+git push
+git commit
+git push main
+git push bangjae0102
+git push -u origin main
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/bangjae0102/Syspro.git
+git push -u origin main
+git puhs -m main
+git push -m "hi"
+git push
+clear
+git status
+git add .
+git commit
