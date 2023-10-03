@@ -308,3 +308,74 @@ git pull origin main
 ls
 git status
 git commit
+git add .
+git status
+git commit -m "second commit"
+git push origin main
+git pull origin main
+git config --list
+git clone https://github.com/bangjae0102/Syspro.git
+git commit
+clear
+git push
+git add .
+git status
+git commit -m "seconde commit"
+git push origin main
+git pull origin main
+git stash
+git pull origin main
+git stash
+ls
+cd list
+ls
+cd ..
+rm list
+rmdir list
+cd unix
+ls
+cd ..
+cd unix
+vim test.txt
+rm Temp
+cd Temp
+ls
+cd ..
+rmdir Temp
+rmdir Tmp
+cd Tmp
+ls
+vim test.txt
+rm test.txt
+ls
+rm test.txt
+rmdir test.txt
+rm test.txt
+cd ..
+ls
+rmdir Tmp
+rm test.txt
+clear
+ls
+rm test.txt
+chmod +w test.txt
+ls
+chmod +w test.txt
+ls
+cd Tmp
+ls
+rm test.txt
+ls
+cd unix
+cd ..
+rmdir Tmp
+cd ..
+cd unix
+ls
+cd ..
+ls
+rmdir unix
+ls
+git pull origin main
+cd Syspro
+git pull origin main
