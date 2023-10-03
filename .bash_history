@@ -251,3 +251,8 @@ clear
 git status
 git add .
 git commit
+git add .
+git commit -m "hi"
+git push
+git push --set-upstream origin main
+git push 
