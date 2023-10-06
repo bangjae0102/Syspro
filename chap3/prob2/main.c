@@ -29,7 +29,7 @@ int main()
 		}
 	}
 
-	printf("\nStrings in descending order of length:\n");	
+	printf("\n 가장 긴 순서대로 나열 : \n");	
 	for(i=0; i<NUM_LINES; i++)
 			printf("%s", line[i]);
 
