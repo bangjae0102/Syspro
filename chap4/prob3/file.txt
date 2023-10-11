@@ -1,0 +1,4 @@
+hello linux
+good linux
+bye linux
+perfect linux
